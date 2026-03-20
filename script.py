@@ -7,5 +7,6 @@ args = parser.parse_args()
 
 print(f"Text input: {args.text}")
 print(f"Choice input: {args.choice}")
+print("hello, world!")
 
 # your logic here
