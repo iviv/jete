@@ -15,11 +15,6 @@ pipeline {
     }
     
     stages {
-        stage('Install Python') {
-            steps {
-                sh 'apt-get update && apt-get install -y python3'
-            }
-        }
         stage('Run Python Script') {
             steps {
                 sh """
