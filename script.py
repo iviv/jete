@@ -11,3 +11,6 @@ print("hello, world!")
 
 # your logic here
 
+print("checking pipeline stages!")
+
+
