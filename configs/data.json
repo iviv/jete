@@ -1,5 +1,5 @@
 {
-    "env": "prod",
-    "version": "2.0.0",
-    "region": "us-west-2"
+    "env": "staging",
+    "version": "1.0.0",
+    "region": "us-east-1"
 }
