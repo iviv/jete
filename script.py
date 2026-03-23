@@ -13,4 +13,6 @@ print("hello, world!")
 
 print("checking pipeline stages!")
 
+print("checking if it works when i'm not paying attention!")
+
 
